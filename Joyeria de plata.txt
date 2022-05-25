@@ -1,0 +1,29 @@
+<HTML>
+    <HEAD><TITLE>JOYERÍA ACERO</TITLE></HEAD>
+     <BODY bgcolor="#FFFFFF" >
+     <A name="arriba"></A>
+     <CENTER><TD><FONT SIZE="8" COLOR="BLACK" FACE="TIMES NEW ROMAN"><A name="jai"><MARQUEE direction="up"> <H3> Joyería de plata </H3> </MARQUEE> </A></FONT></TD>
+   <BR><BR>
+   <BR><BR>
+   <TABLE aling="center" width="50%">
+     <tr>
+     <td colspan="4"><FONT SIZE="5" COLOR="BLACK" FACE="TIMES NEW ROMAN"> <P align="center">Nos preocupamos por nuestros clientes, es por eso que tenemos joyería de plata pensado en ti.</P></FONT></td>
+      </tr>
+      <tr>
+   <BR><BR>      <td><img src="aceros.png" width="80%" align="center">
+   <BR><BR>
+   <BR><BR>
+       <video width="100%" height="240" autoplay controls>
+       <source src="aceroinox.mp4" type="video/mp4" align="center">
+       <source src="aceroinox.mp4" type="video/ogg">
+       </video>
+       </tr>
+      <td colspan="2">
+      <p align="left">
+      <font size="5" color="black"><A href="#arriba">  volver  arriba</A></font>
+      </p>
+      </td>    
+      </tr>
+      </TABLE>
+       </BODY>
+   </HTML>

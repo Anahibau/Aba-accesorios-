@@ -1,0 +1,9 @@
+<HTML>
+ <HEAD><TITLE>ENCABEZADO</TITLE></HEAD>
+  <BODY bgcolor="#FFFFFF">
+   <BR>
+    <CENTER>
+    <FONT size="12" color="BLACK" face="High spirited"> <IMG SRC="logo.png" width="15%" align="center"> </FONT> <BR><MARQUEE> <font size="70">¡Festeja a Mamá con nuestra colección de joyería! </font>  </MARQUEE>
+      <img src="promocion.jpg" align="center" width="80%"><img src="envio.jpg" align="center" width="70%">
+  </BODY>
+</HTML>

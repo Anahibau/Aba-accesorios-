@@ -1,0 +1,29 @@
+<HTML>
+    <HEAD><TITLE>JOYERÍA CRISTAL</TITLE></HEAD>
+     <BODY bgcolor="#FFFFFF" >
+     <A name="arriba"></A>
+     <CENTER><TD><FONT SIZE="8" COLOR="BLACK" FACE="TIMES NEW ROMAN"><A name="jai"><MARQUEE direction="up"> <H3> Joyería Cristal </H3> </MARQUEE> </A></FONT></TD>
+   <BR><BR>
+   <BR><BR>
+   <TABLE aling="center" width="50%">
+     <tr>
+     <td colspan="4"><FONT SIZE="5" COLOR="BLACK" FACE="TIMES NEW ROMAN"> <P align="center">Tenemos calidad en nuestros productos, por eso te ofrecemos joyería de cristal, para una mujer elegante..</P></FONT></td>
+      </tr>
+      <tr>
+   <BR><BR>      <td><img src="cristal.png" width="80%" align="center">
+   <BR><BR>
+   <BR><BR>
+       <CENTER><video width="50%" height="240" autoplay controls>
+       <source src="cristal.mp4" type="video/mp4" align="center">
+       <source src="cristal.mp4" type="video/ogg">
+       </video>
+       </tr>
+      <td colspan="2">
+      <p align="left">
+      <font size="5" color="black"><A href="#arriba">  volver  arriba</A></font>
+      </p>
+      </td>    
+      </tr>
+      </TABLE>
+       </BODY>
+   </HTML>

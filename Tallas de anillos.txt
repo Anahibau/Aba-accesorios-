@@ -1,0 +1,65 @@
+<br>
+<table border = "1"bordercolor="Black" bgcolor = "orange">
+  <img src="edad.jpg" align="right" width="500px"> 
+
+  <tr>
+
+    <th scope="row">Tallas de anillos<img src="anillo.png" align="right" width="500px"></th>
+
+    <th>Razas Grandes</th>
+
+    <th>Razas medianas</th>
+
+    <th>Razas Mini</th>
+
+  </tr>
+
+  <tr>
+
+    <th>2 Años</th>
+
+    <td>24 años humanos</td>
+
+    <td>24 años humanos</td>
+
+    <td>24 años humanos</td>
+
+  </tr>
+
+  <tr>
+
+    <th>3 Años</th>
+
+    <td>29 años humanos</td>
+
+    <td>29 años humanos</td>
+
+    <td>29 años humanos</td>
+
+  </tr>
+
+  <tr>
+
+    <th>4 Años</th>
+
+    <td>34 años humanos</td>
+
+    <td>34 años humanos</td>
+
+    <td>34 años humanos</td>
+
+  </tr>
+
+ <tr>
+
+    <th>5 Años</th>
+
+    <td>39 años humanos</td>
+
+    <td>39 años humanos</td>
+
+    <td>39 años humanos</td>
+
+  </tr>
+
+</table>
